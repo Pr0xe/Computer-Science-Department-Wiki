@@ -4,7 +4,7 @@
 
 #### ΠΡΩΤΟ ΕΞΑΜΗΝΟ
 1. [(ΗΥ-100) Εισαγωγή στην Επιστήμη Υπολογιστών C](https://github.com/keybraker/Computer-Science-Department-Wiki/blob/master/ΜΑΘΗΜΑΤΑ/ΗΥ-100/(ΗΥ-100).md)
-2. (ΗΥ-120) Ψηφιακή Σχεδίαση
+2. (ΗΥ-120) Ψηφιακή Σχεδίαση(https://github.com/Pr0xe/Computer-Science-Department-Wiki/blob/master/%CE%9C%CE%91%CE%98%CE%97%CE%9C%CE%91%CE%A4%CE%91/%CE%97%CE%A5-120/%CE%97%CE%A5-120.md)
 3. [(ΗΥ-110) Απειροστικός Λογισμός Ι](https://github.com/keybraker/Computer-Science-Department-Wiki/blob/master/ΜΑΘΗΜΑΤΑ/ΗΥ-110/(ΗΥ-110).md)
 4. [(ΗΥ-112) Φυσική Ι](https://www.csd.uoc.gr/~hy112/)
 5. (ΗΥ-108) Αγγλικά Ι
